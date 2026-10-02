@@ -7,14 +7,15 @@ You can also include images in this folder and reference them in the markdown. E
 512 kb in size, and the combined size of all images must be less than 1 MB.
 -->
 
-## How it works
+This project implements a two-input AND gate.
 
-Explain how your project works
+A single And gate.
 
-## How to test
 
-Explain how to use your project
+
+End gate
+The LED should light only for A = 1 and B = 1.
 
 ## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+A single And gate.
+The Wokwi simulation uses two input switches and one LED.
